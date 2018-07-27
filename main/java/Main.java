@@ -37,6 +37,21 @@ public class Main {
         System.out.print("result=");
         System.out.println(equationOverload.getResult());
 
+        System.out.println();
+        System.out.println("Using Inheritance");
+        System.out.println();
+
+        CalculateBase[] calculators = {
+                new Divider(100.0d, 50.0d),
+                new Adder(100.0d, 30.0d),
+                new Subtracter( 500.0d, 100.0d) } ;
+
+
+        for( CalculateBase calculator: calculators){
+             calculator.calculate();
+            System.out.print("result =");
+            System.out.println(calculator.getResult());
+        }
    }
 }
 
