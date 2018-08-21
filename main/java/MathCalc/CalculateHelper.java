@@ -14,6 +14,4 @@ public class CalculateHelper {
         leftValue = Double.parseDouble(parts[1]); // 1.0
         rightValue = Double.parseDouble(parts[2]); // 2.0
     }
-
-    private void
 }
