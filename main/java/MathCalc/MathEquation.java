@@ -1,3 +1,5 @@
+package MathCalc;
+
 public class MathEquation {
 
     private double leftVal;

@@ -1,3 +1,7 @@
+package MathCalc;
+
+import MathCalc.CalculateBase;
+
 public class Multiplier extends CalculateBase {
 
     public Multiplier(){}

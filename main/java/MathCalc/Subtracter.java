@@ -1,3 +1,7 @@
+package MathCalc;
+
+import MathCalc.CalculateBase;
+
 public class Subtracter extends CalculateBase {
     public Subtracter(){}
     public Subtracter( double leftVal, double rightVal){

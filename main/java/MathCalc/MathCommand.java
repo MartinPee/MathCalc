@@ -1,8 +1,9 @@
+package MathCalc;
+
 public enum MathCommand {
 
     Add,
-    Calculate,
+    Subtract,
     Multiply,
-    Divide,
-
+    Divide
 }

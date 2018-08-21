@@ -1,4 +1,8 @@
-public class Divider extends  CalculateBase {
+package MathCalc;
+
+import MathCalc.CalculateBase;
+
+public class Divider extends CalculateBase {
 
     public Divider(){}
     public Divider(double leftVal, double rightVal  ){

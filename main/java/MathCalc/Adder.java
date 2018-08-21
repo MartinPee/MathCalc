@@ -1,4 +1,4 @@
-
+package MathCalc;
 
 
 public class Adder extends CalculateBase {
@@ -7,7 +7,7 @@ public class Adder extends CalculateBase {
     }
 
     public Adder(double leftVal, double rightVal) {
-            super(leftVal, rightVal);
+        super(leftVal, rightVal);
     }
 
     @Override
