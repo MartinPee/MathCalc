@@ -1,6 +1,4 @@
-package MathCalc;
-
-import MathCalc.CalculateBase;
+package com.marcin.mathcalc;
 
 public class Divider extends CalculateBase {
 

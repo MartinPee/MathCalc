@@ -1,4 +1,4 @@
-package MathCalc;
+package com.marcin.mathcalc;
 
 
 public class Adder extends CalculateBase {

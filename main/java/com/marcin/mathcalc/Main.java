@@ -1,8 +1,4 @@
-package MathCalc;
-
-import MathCalc.Adder;
-import MathCalc.CalculateBase;
-import MathCalc.Divider;
+package com.marcin.mathcalc;
 
 public class Main {
     public static void main(String[] args) {
